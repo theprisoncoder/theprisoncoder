@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theprisoncoder
+- 👋 Hi, I’m @bngwanforbi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Python
 - 💞️ Check out this cool website I collaborated on with Steve Martin: https://theprisoncoder.wordpress.com/
